@@ -12,10 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa81f9eaebc3484fb4cac2383223d9dd, type: 3}
   m_Name: Player_Move
   m_EditorClassIdentifier: Assembly-CSharp::_Dts.Scripts.Data.MoveData
-  WorkSpeed: 0
-  SprintSpeed: 0
-  Acceleration: 0
-  Deceleration: 0
-  RotationSmoothTime: 0
-  Gravity: 0
-  GroundedStickForce: 0
+  WalkSpeed: 2
+  SprintSpeed: 5
+  JumpHeight: 1.2
+  CrouchWalkSpeed: 1.5
+  CrouchSprintSpeed: 2.5
+  Acceleration: 10
+  Deceleration: 15
+  RotationSmoothTime: 0.12
+  Gravity: 15
+  MaxFallSpeed: 20
+  GroundedStickForce: 2

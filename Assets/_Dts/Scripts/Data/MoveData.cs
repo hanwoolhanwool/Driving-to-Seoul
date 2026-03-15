@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace _Dts.Scripts.Data
 {
-    [CreateAssetMenu(fileName = "MoveData", menuName = "ScriptableObject/MoveData")]
+    [CreateAssetMenu(fileName = "MoveData", menuName = "ScriptableObjects/MoveData")]
     public class MoveData : ScriptableObject
     {
         public event Action OnValuesChanged;
@@ -28,6 +28,7 @@ namespace _Dts.Scripts.Data
 
         [Header("Gravity")] 
         public float Gravity;
+        public float MaxFallSpeed;
         public float GroundedStickForce;
 
 

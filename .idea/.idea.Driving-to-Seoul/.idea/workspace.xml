@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0639ea81-e43d-42c2-a2c3-443d62ba44c9" name="변경" comment="" />
+    <list default="true" id="0639ea81-e43d-42c2-a2c3-443d62ba44c9" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/_Dts/Scripts/Feature/Player/Move1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Dts/Scripts/Feature/Player/Move1.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Driving-to-Seoul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Driving-to-Seoul/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dev/LeeHanWool/LHW_Dev.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Dev/LeeHanWool/LHW_Dev.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_PlayerControls.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_PlayerControls.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_PlayerControls.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InputSystem_PlayerControls.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dts/Data/Player/Player_Move.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dts/Data/Player/Player_Move.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dts/Scripts/Data/InputReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dts/Scripts/Data/InputReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dts/Scripts/Data/MoveData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dts/Scripts/Data/MoveData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Dts/Scripts/Feature/Player/PlayerMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Dts/Scripts/Feature/Player/PlayerMove.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Settings/RMC/[MyProject]/GamePlay/Character/PlayerMoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6a469c5cf96a43eab23a293167261e20212400/22/21d75977/UnityAction`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6a469c5cf96a43eab23a293167261e20212400/a3/79006ef5/Mathf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92f43e668661467fbc7e59125e6db8502b400/0f/41dc170e/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dts/Scripts/Common/Utils/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dts/Scripts/Data/InputReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dts/Scripts/Data/MoveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Dts/Scripts/Feature/Player/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@57d0e36f6123/InputSystem/Actions/InputActionPhase.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -88,6 +106,15 @@
       <workItem from="1771008500505" duration="8000" />
       <workItem from="1771011102782" duration="8880000" />
       <workItem from="1771265492875" duration="1431000" />
+      <workItem from="1771307022606" duration="26854000" />
+      <workItem from="1771582594665" duration="35182000" />
+      <workItem from="1771755886796" duration="43647000" />
+      <workItem from="1772177775834" duration="10000" />
+      <workItem from="1772178153744" duration="21000" />
+      <workItem from="1772178366938" duration="33000" />
+      <workItem from="1772178459345" duration="835000" />
+      <workItem from="1772255472729" duration="6000" />
+      <workItem from="1773444585093" duration="67000" />
     </task>
     <servers />
   </component>
@@ -101,6 +128,17 @@
     <option name="unityProjectFolder" value="true" />
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
